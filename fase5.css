@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+    color:aquamarine
+
+}
+
+header{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.imagem-container{
+    display: flex;
+    align-items: end;
+    }
+
+.color{
+    border: 10px solid green;
+    border-radius: 100%;
+}
+
+.color1{
+    border: 10px solid yellow;
+    border-radius: 100%;
+}
+
+.color2{
+    border: 10px solid red;
+    border-radius: 100%;
+
+}
+
+footer{
+    bottom: auto;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 340px;
+
+}
